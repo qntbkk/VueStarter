@@ -1,2 +1,0 @@
-# VueStarter
-Created with CodeSandbox
